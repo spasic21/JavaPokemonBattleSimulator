@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<PokemonTeam>
+	<Pokemon>
+		<name>Glaceon</name>
+		<type>Ice</type>
+		<lv>87</lv>
+		<hp>251</hp>
+		<attack>152</attack>
+		<defence>251</defence>
+		<speed>140</speed>
+	</Pokemon>
+	
+	<Pokemon>
+		<name>Crobat</name>
+		<type>Flying</type>
+		<lv>100</lv>
+		<hp>320</hp>
+		<attack>239</attack>
+		<defence>169</defence>
+		<speed>320</speed>
+	</Pokemon>
+	
+	<Pokemon>
+		<name>Greninja</name>
+		<type>Water</type>
+		<lv>100</lv>
+		<hp>292</hp>
+		<attack>275</attack>
+		<defence>152</defence>
+		<speed>305</speed>
+	</Pokemon>
+
+	<Pokemon>
+		<name>Garchomp</name>
+		<type>Dragon</type>
+		<lv>100</lv>
+		<hp>371</hp>
+		<attack>365</attack>
+		<defence>205</defence>
+		<speed>249</speed>
+	</Pokemon>
+	
+	<Pokemon>
+		<name>Chesnaught</name>
+		<type>Grass</type>
+		<lv>100</lv>
+		<hp>304</hp>
+		<attack>289</attack>
+		<defence>284</defence>
+		<speed>164</speed>
+	</Pokemon>
+	
+	<Pokemon>
+		<name>Charizard</name>
+		<type>Fire</type>
+		<lv>100</lv>
+		<hp>305</hp>
+		<attack>213</attack>
+		<defence>195</defence>
+		<speed>239</speed>
+	</Pokemon>
+
+</PokemonTeam>

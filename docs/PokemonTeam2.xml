@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<PokemonTeam>
+	<Pokemon>
+		<name>Charizard</name>
+		<type>Fire</type>
+		<lv>42</lv>
+		<hp>120</hp>
+		<attack>84</attack>
+		<defence>70</defence>
+		<speed>105</speed>
+	</Pokemon>	
+	
+	<Pokemon>
+		<name>Crobat</name>
+		<type>Flying</type>
+		<lv>100</lv>
+		<hp>320</hp>
+		<attack>239</attack>
+		<defence>169</defence>
+		<speed>320</speed>
+	</Pokemon>
+
+</PokemonTeam>
